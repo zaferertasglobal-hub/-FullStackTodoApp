@@ -1,3 +1,10 @@
+# FullStack Todo App (Live!)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-00D4AA?style=for-the-badge&logo=netlify&logoColor=white)](https://flourishing-marzipan-d9600a.netlify.app)
+
+![.NET 8](https://img.shields.io/badge/.NET-8.0-5C2D91?logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 # FullStack Todo App
 
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-5C2D91?logo=.net&logoColor=white)
