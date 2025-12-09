@@ -1,3 +1,10 @@
+# FullStack Todo App - Canlı!
+
+[![Live Demo](https://img.shields.io/badge/Live-00D4AA?style=for-the-badge&logo=netlify&logoColor=white)](https://zafer-todo-app.netlify.app)
+[![.NET 8](https://img.shields.io/badge/.NET-8.0-5C2D91?logo=.net&logoColor=white)](https://dotnet.microsoft.com)
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://reactjs.org)
+
+Tamamen sıfırdan yapılmış, production-ready full-stack todo uygulaması.
 # FullStack Todo App (Live!)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-00D4AA?style=for-the-badge&logo=netlify&logoColor=white)](https://flourishing-marzipan-d9600a.netlify.app)
